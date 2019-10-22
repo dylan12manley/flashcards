@@ -1,3 +1,17 @@
-.definition {
+p {
   display: none;
+}
+body {
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+h2, h1{
+  text-align: center;
+}
+h1 {
+  padding: 30px;
+}
+
+.well {
+  min-height: 140px;
 }
